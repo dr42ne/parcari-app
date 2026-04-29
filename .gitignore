@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local debug / screenshots
+.playwright-mcp/
+design-*.png
+*.tmp
+
+# Outputs intermediare (build scripts genereaza acestea)
+build_doc.py.tmp
