@@ -24,3 +24,4 @@ design-*.png
 
 # Outputs intermediare (build scripts genereaza acestea)
 build_doc.py.tmp
+outputs/~$*
