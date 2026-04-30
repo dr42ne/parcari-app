@@ -25,3 +25,7 @@ design-*.png
 # Outputs intermediare (build scripts genereaza acestea)
 build_doc.py.tmp
 outputs/~$*
+
+# Rapoarte si documente generate — raman doar local
+outputs/*
+!outputs/validator.py
